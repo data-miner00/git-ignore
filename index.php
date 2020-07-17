@@ -8,5 +8,12 @@ if (isset['user']) {
 <!DOCTYPE html>
 <html>
 	<head></head>
-	<body></body>
+	<body>
+		<h1 id="dog">DOg</h1>
+		
+		<script>
+			const dog = document.getElementById("dog")
+			dog.innerHTML = 'Commit;;;; '
+		</script>
+	</body>
 </html>

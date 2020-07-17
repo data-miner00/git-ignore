@@ -7,4 +7,6 @@ if (isset['user']) {
 ?>
 <!DOCTYPE html>
 <html>
+	<head></head>
+	<body></body>
 </html>
